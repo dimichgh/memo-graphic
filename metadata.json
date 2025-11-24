@@ -1,0 +1,7 @@
+{
+  "name": "MemoGraphic",
+  "description": "Transform your voice memos into stunning infographic images using Gemini Nano Banana Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
